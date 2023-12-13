@@ -1,0 +1,1 @@
+Developed a comprehensive report on portfolio management, including client profiling, stock selection using AI, and stock performance analysis, adhering to the structured format provided, within 26 double-spaced pages.
